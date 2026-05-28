@@ -340,7 +340,7 @@ If you found this project useful, informative, or inspiring — please consider 
 
 It helps others discover the project and motivates further development. 🙏
 
-[![⭐ Star This Repository](https://img.shields.io/badge/⭐%20Star%20This%20Repository-Click%20Here-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mohanad234128/Chocolate-Sales-Dashboard)
+[![⭐ Star This Repository](https://img.shields.io/badge/⭐%20Star%20This%20Repository-Click%20Here-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mohanad234128/Chocolate-Sales-Analysis.git)
 
 <br/>
 
