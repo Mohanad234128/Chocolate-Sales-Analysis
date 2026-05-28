@@ -18,7 +18,7 @@
 
 <br/>
 
-![Dashboard Preview](Assets/Overview_Page.png)
+![Dashboard Preview](Assets/Overview-Page.png)
 
 </div>
 
@@ -174,10 +174,9 @@ The Overview page provides a bird's-eye view of the entire business performance:
 📦 Chocolate-Sales-Dashboard/
 │
 ├── 📂 Assets/
-│   ├── Overview_Page.png           # Screenshot — Overview dashboard page
-│   ├── Category_Analysis.png       # Screenshot — Category Analysis page
-│   ├── Detailed_View.png           # Screenshot — Detailed View page
-│   └── ERD_Diagram.png             # Main preview image for README
+│   ├── Overview-Page.png           # Screenshot — Overview dashboard page
+│   ├── Category-Analysis.png       # Screenshot — Category Analysis page
+│   └── Detailed-View.png           # Screenshot — Detailed View page
 │
 ├── 📂 Chocolate-Sales-Datasets/
 │   └── chocolate_sales_data.xlsx   # Raw dataset used in the dashboard
@@ -244,21 +243,21 @@ Home → Transform Data → Close & Apply
 ### 🏠 Overview Page
 > KPIs, monthly trends, brand performance table, and revenue by product/category
 
-![Overview Page](Assets/Overview_Page.png)
+![Overview Page](Assets/Overview-Page.png)
 
 ---
 
 ### 🔍 Category Analysis Page
 > Brand scatter analysis, gender segmentation, and global revenue map
 
-![Category Analysis](Assets/Category_Analysis.png)
+![Category Analysis](Assets/Category-Analysis.png)
 
 ---
 
 ### 📋 Detailed View Page
 > Sankey-style revenue decomposition with multi-dimensional slicers
 
-![Detailed View](Assets/Detailed_View.png)
+![Detailed View](Assets/Detailed-View.png)
 
 > 📸 All screenshots are stored in the `Assets/` folder.
 
@@ -341,7 +340,7 @@ If you found this project useful, informative, or inspiring — please consider 
 
 It helps others discover the project and motivates further development. 🙏
 
-[![Star This Repository](https://img.shields.io/github/stars/Mohanad234128/Chocolate-Sales-Dashboard?style=social)](https://github.com/Mohanad234128/Chocolate-Sales-Dashboard)
+[![⭐ Star This Repository](https://img.shields.io/badge/⭐%20Star%20This%20Repository-Click%20Here-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mohanad234128/Chocolate-Sales-Dashboard)
 
 <br/>
 
