@@ -18,7 +18,7 @@
 
 <br/>
 
-![Dashboard Preview](Assets/Overview-Page.png)
+![Dashboard Preview](Assets/Overview_Page.png)
 
 </div>
 
@@ -174,9 +174,9 @@ The Overview page provides a bird's-eye view of the entire business performance:
 📦 Chocolate-Sales-Dashboard/
 │
 ├── 📂 Assets/
-│   ├── Overview-Page.png           # Screenshot — Overview dashboard page
-│   ├── Category-Analysis.png       # Screenshot — Category Analysis page
-│   └── Detailed-View.png           # Screenshot — Detailed View page
+│   ├── Overview_Page.png           # Screenshot — Overview dashboard page
+│   ├── Category_Analysis.png       # Screenshot — Category Analysis page
+│   └── Detailed_View.png           # Screenshot — Detailed View page
 │
 ├── 📂 Chocolate-Sales-Datasets/
 │   └── chocolate_sales_data.xlsx   # Raw dataset used in the dashboard
@@ -243,21 +243,21 @@ Home → Transform Data → Close & Apply
 ### 🏠 Overview Page
 > KPIs, monthly trends, brand performance table, and revenue by product/category
 
-![Overview Page](Assets/Overview-Page.png)
+![Overview Page](Assets/Overview_Page.png)
 
 ---
 
 ### 🔍 Category Analysis Page
 > Brand scatter analysis, gender segmentation, and global revenue map
 
-![Category Analysis](Assets/Category-Analysis.png)
+![Category Analysis](Assets/Category_Analysis.png)
 
 ---
 
 ### 📋 Detailed View Page
 > Sankey-style revenue decomposition with multi-dimensional slicers
 
-![Detailed View](Assets/Detailed-View.png)
+![Detailed View](Assets/Detailed_View.png)
 
 > 📸 All screenshots are stored in the `Assets/` folder.
 
